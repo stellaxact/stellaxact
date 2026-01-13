@@ -22,7 +22,7 @@
 🏐 Voleibol | 🎻 Violín | 💻 Código  
 
 📫 **Contacto**  
-- GitHub: estás aquí 😄  
+
 - Email: *josma313@gmail.com*  
 
 <img align="right" alt="Night Coding" width="380" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>

@@ -28,7 +28,7 @@
 
 📫 **Contacto:**  
 🌐 GitHub: *¡Estás aquí!* 😄  
-✉️ Email: *[tu-email@gmail.com]* *(opcional)*
+✉️ Email: *[josma313@gmail.com]* 
 
 ---
 

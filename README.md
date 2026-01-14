@@ -2,10 +2,10 @@
 
 <!-- ===================== TITLE ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=800&color=79A500&center=true&vCenter=true&lines=Jose+Manuel+Moreno;Telecommunications+Engineering;Cybersecurity+%7C+Networking;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=900&color=79A500&center=true&vCenter=true&width=900&lines=Jose+Manuel+Moreno;Telecommunications+Engineering;Cybersecurity+%7C+Networking;Always+Learning" />
 </p>
 
-<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
+
 <h2 align="left">Hey! I'm Jose 👋</h2>
 
 ---
@@ -15,7 +15,7 @@
 💡 Apasionado por la tecnología, redes y programación  
 🎓 **Estudiante de Ingeniería de Telecomunicaciones**  
 🌱 Actualmente aprendiendo **Python, redes, cloud y ciberseguridad**  
-🧠 Me gusta analizar sistemas, entender cómo funcionan y resolver problemas  
+🧠 Rompo sistemas en fragmentos, cuestiono su funcionamiento y descubro cómo cada parte se conecta
 🏐 Voleibol | 🎻 Violín | 💻 Código  
 
 📫 **Contacto**  
@@ -57,7 +57,7 @@
   />
 </p>
 
----
+
 
 
 ---
@@ -76,7 +76,7 @@
   <img src="https://komarev.com/ghpvc/?username=STELLAXACT&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
----
+
 
 
 ---

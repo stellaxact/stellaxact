@@ -1,7 +1,4 @@
-<!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="./assets/banner.png" alt="Banner" />
-</p>
+
 
 <!-- ===================== TITLE ===================== -->
 <p align="center">
@@ -62,16 +59,6 @@
 
 ---
 
-## ⚙️ GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=STELLAXACT&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STELLAXACT&layout=compact&theme=algolia"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=STELLAXACT&theme=algolia&hide_border=true"/>
-</p>
 
 ---
 
@@ -91,11 +78,6 @@
 
 ---
 
-## 🐍 Commits Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/STELLAXACT/STELLAXACT/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
 ---
 

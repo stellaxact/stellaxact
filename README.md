@@ -1,6 +1,6 @@
 <!-- ===================== TITLE ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=900&color=79A500&center=true&vCenter=true&width=900&lines=Jose+Manuel+Moreno;Telecommunications+Engineering;Cybersecurity+%7C+Networking;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=900&color=79A500&center=true&vCenter=true&width=900&lines=Jose+Manuel+Moreno;Computer+Engineering;Cybersecurity+%7C+Networking;Always+Learning" />
 </p>
 
 <h2 align="left">Hey! I'm Jose 👋</h2>
@@ -11,8 +11,8 @@
 
 <img align="right" alt="Night Coding" width="280" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 
-💡 Apasionado por la tecnología, redes y programación  
-🎓 **Estudiante de Ingeniería de Telecomunicaciones**  
+💡 Apasionado por la tecnología, redes, programación y la ciberseguridad  
+🎓 **Estudiante de Ingeniería en Informatica**  
 🌱 Actualmente aprendiendo **Python, redes, cloud y ciberseguridad**  
 🧠 Rompo sistemas en fragmentos, cuestiono su funcionamiento y descubro cómo cada parte se conecta.  
 
